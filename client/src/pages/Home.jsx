@@ -55,10 +55,10 @@ export default function Home() {
           Find your next{' '}
           <span className="text-blue-800">perfect</span>
           <br />
-          place with ease
+          place with Us
         </h1>
         <div className="text-gray-600 text-sm sm:text-base">
-          Sahand Estate offers the best selection of properties in India,
+          Niwas Finder offers the best selection of properties in India,
           <br />
           helping you find the perfect home or investment opportunity.
         </div>
